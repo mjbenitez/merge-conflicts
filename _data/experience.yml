@@ -1,9 +1,10 @@
 # Jobs
 # Trainer
 - company: GitHub, Inc.
-  position: GitHub Trainer
+  position: Surftocat
   duration: March, 2012 &mdash; Present
   summary: Teach all things Git, give away all the stickers, ensure world peace.
+
 
 # Job Title
 - company: Conway Meats
@@ -13,6 +14,7 @@
 
 # Supportocat
 - company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
+  position: Web Developer - Designer
   duration:  June 2016 &mdash; Present
-  summary: Provide world class support to customers on the GitHub for Business platform
+  summary: Redesigned the services.github.com website without a calendar
+
